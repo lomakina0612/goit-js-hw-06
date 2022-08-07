@@ -22,3 +22,12 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.flex {
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+.img {
+  width: 100%;
+}
