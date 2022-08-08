@@ -1,6 +1,6 @@
 # goit-js-hw-06
 
-<a href="index.html">menu</a>
+<a href="./index.html">menu</a>
 
 Задание 1
 
